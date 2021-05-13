@@ -17,10 +17,10 @@
     "url": "https://github.com/bsklaroff/coffeelint-camel-case-vars/issues"
   },
   "dependencies": {
-    "coffee-script": "^1.8.0"
+    "coffeescript": "^2.5.0"
   },
   "peerDependencies": {
-    "coffeelint": "^1.5"
+    "@coffeelint/cli": "^5.0.0"
   },
   "homepage": "https://github.com/bsklaroff/coffeelint-camel-case-vars",
   "scripts": {
